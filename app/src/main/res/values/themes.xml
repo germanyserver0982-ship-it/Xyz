@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Zoya" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/zoya_bg_top</item>
+        <item name="android:statusBarColor">@color/zoya_bg_top</item>
+        <item name="android:navigationBarColor">@color/zoya_bg_bottom</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

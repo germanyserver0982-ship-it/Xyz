@@ -1,0 +1,16 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Android / Gradle
+.gradle/
+build/
+app/build/
+local.properties
+
+# Termux / editor
+*.swp
+*.swo
